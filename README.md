@@ -1,4 +1,3 @@
-# PDF Password Recovery Using John the Ripper
 
 ## 1. Introduction
 
