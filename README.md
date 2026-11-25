@@ -1,4 +1,4 @@
-
+# PDF Password Recovery - JTR
 ## 1. Introduction
 
 This practical demonstrates PDF password recovery using John the Ripper on Kali Linux. Three password-protected PDF files were examined using hash extraction and dictionary-based password auditing.
